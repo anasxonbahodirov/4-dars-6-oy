@@ -1,0 +1,13 @@
+ul#users-list {
+    list-style-type: none;
+    padding: 20px;
+    width: 300px;
+  }
+  
+  ul#users-list li {
+    background-color: green;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
